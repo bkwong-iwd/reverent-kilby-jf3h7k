@@ -1,0 +1,2 @@
+requests==2.32.3
+wptools==0.4.17
